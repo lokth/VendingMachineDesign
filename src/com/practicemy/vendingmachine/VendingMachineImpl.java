@@ -1,6 +1,5 @@
 package com.practicemy.vendingmachine;
 
-import java.net.CookiePolicy;
 import java.util.List;
 
 public class VendingMachineImpl implements VendingMachine {
